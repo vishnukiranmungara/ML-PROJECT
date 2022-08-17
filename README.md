@@ -1,2 +1,3 @@
 # ML-PROJECT
-data cleaning & building machine learning classification algos to predict output for bank customers loan default probability and calculating accuracy of model.
+USING XYZ CORPORATION LENDING DATA SET I CLEANED AND PROCESSED DATA THEN CREATED TEST AND TRAIN DATA SETS AND  BUILD A CLASSIFICATION MODEL TO PREDICT THE DE-FAULT PROBABILITY OF CUSTOMER.
+CALCULATED ACCURACY PRECISION 
